@@ -15,4 +15,25 @@ bbb
 
 hello 0804---
 
+
+
+xiefojun ----testgit
+
+
 git_0804_commit
+
+solve the 1024bug by branch zsl/bug-1024
+
+git_0804_commit
+
+git_zsl/dev branch
+
+
+git_0804_commit
+
+xiefojun ----testgit
+
+----this is limebike by zsl/teset---
+
+简单使用vim编辑器
+

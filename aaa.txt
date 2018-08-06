@@ -21,3 +21,4 @@ xiefojun ----testgit
 
 git_0804_commit
 
+solve the 1024bug by branch zsl/bug-1024

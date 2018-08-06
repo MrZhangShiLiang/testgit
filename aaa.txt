@@ -35,4 +35,5 @@ xiefojun ----testgit
 
 ----this is limebike by zsl/teset---
 
+简单使用vim编辑器
 
